@@ -14,6 +14,4 @@
 # limitations under the License.
 #
 
-add_lunch_combo ownrom_flo-user
 add_lunch_combo ownrom_flo-userdebug
-add_lunch_combo ownrom_flo-eng
